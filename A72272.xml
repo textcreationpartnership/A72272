@@ -1,0 +1,476 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The French Kings proclamation, containing the agreement with the King of Spaine for the taking away of the new inposition of thirtie in the hundreth. Published in Nouember last. Translated out of French.</title>
+            <title>Proclamations. 1604-11-22</title>
+            <author>France. Sovereign (1589-1610 : Henry IV)</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1604</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 11 KB of XML-encoded text transcribed from 7 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A72272</idno>
+            <idno type="STC">STC 13122</idno>
+            <idno type="STC">ESTC S124860</idno>
+            <idno type="EEBO-CITATION">99898646</idno>
+            <idno type="PROQUEST">99898646</idno>
+            <idno type="VID">173227</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A72272)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 173227)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 2024:8)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The French Kings proclamation, containing the agreement with the King of Spaine for the taking away of the new inposition of thirtie in the hundreth. Published in Nouember last. Translated out of French.</title>
+                  <title>Proclamations. 1604-11-22</title>
+                  <author>France. Sovereign (1589-1610 : Henry IV)</author>
+               </titleStmt>
+               <extent>[2], 6 [i.e. 10] p.   </extent>
+               <publicationStmt>
+                  <publisher>printed by T. C[reede]. for Cutbert Burby dwelling in Pauls Church-yard, at the signe ... ,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1604.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Printer's name from STC (2nd ed.).</note>
+                  <note>Page 10, last numbered page, misnumbered 6.</note>
+                  <note>Also issued as pt. 2 of 22992.5.--STC.</note>
+                  <note>O copy, reel 2024, is torn with loss of text.</note>
+                  <note>Reproduction of original in the Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>France --  History --  Henry IV, 1589-1610 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-12</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-12</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-02</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2010-02</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:173227:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 1 -->
+            <p>THE French Kings Pro<g ref="char:EOLhyphen"/>clamation, containing the agreement with the King of <hi>Spaine,</hi> for <hi>the taking away of the new Impoſition of thirtie in the hundreth.</hi>
+            </p>
+            <p>Publiſhed in Nouember laſt.</p>
+            <p>Tranſlated out of French.</p>
+            <figure>
+               <q>
+                  <unclear>VERITAS</unclear> 
+                  <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> VVLNERE</q>
+            </figure>
+            <p>Printe<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> by T. C. for Cutbert Burby <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>wel<g ref="char:EOLhyphen"/>ling <gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> C<gap reason="illegible" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>rch-yard, at the Signe of the Sw<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ne <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>604.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:173227:2"/>
+            <!-- PDF PAGE 2 -->
+            <pb n="1" facs="tcp:173227:2"/>
+            <!-- PDF PAGE 2 -->
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="royal_proclamation">
+                        <head>The French Kings Pro<g ref="char:EOLhyphen"/>clamation, containing the agreement with <hi>the King of</hi> Spaine, <hi>for the taking away of the new Impoſition of thirtie in the hundreth.</hi>
+                        </head>
+                        <opener>
+                           <signed>
+                              <seg rend="decorInit">H</seg>ENRY by the grace of God, King of <hi>France</hi> and <hi>Na<g ref="char:EOLhyphen"/>uarre,</hi>
+                           </signed>
+                           <salute>to all preſent and to come, ſalu<g ref="char:EOLhyphen"/>tatio<g ref="char:cmbAbbrStroke">̄</g>s.</salute>
+                        </opener>
+                        <p>After that it was manifeſt that the Impoſition of <gap reason="illegible" extent="3+ letters">
+                              <desc>•••…</desc>
+                           </gap>tie the hundreth hereto fore impoſed by <gap reason="illegible" extent="1 span">
+                              <desc>〈…〉</desc>
+                           </gap> the King of <hi>Spaine,</hi> and <gap reason="illegible" extent="1 span">
+                              <desc>〈…〉</desc>
+                           </gap> 
+                           <hi>Flaunders,</hi> vpon the marchandize <gap reason="illegible" extent="1 span">
+                              <desc>〈…〉</desc>
+                           </gap> 
+                           <gap reason="illegible" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>hould be brought thither o<gap reason="illegible" extent="1 letter">
+                              <desc>•</desc>
+                           </gap> 
+                           <gap reason="illegible" extent="1 span">
+                              <desc>〈…〉</desc>
+                           </gap>, of which might be <gap reason="illegible" extent="1 span">
+                              <desc>〈…〉</desc>
+                           </gap> Countrey and D<gap reason="illegible" extent="1 chunk">
+                              <desc>…</desc>
+                           </gap> 
+                           <gap reason="illegible" extent="1 span">
+                              <desc>〈…〉</desc>
+                           </gap> 
+                           <gap reason="illegible" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>ubiects alſo the dif<g ref="char:EOLhyphen"/>ference <gap reason="illegible" extent="1 span">
+                              <desc>〈…〉</desc>
+                           </gap> follow the
+<pb n="2" facs="tcp:173227:3"/>
+                           <!-- PDF PAGE 3 -->ſaid Impoſition) were by vs publiſhed to all our ſubiects concerning trafficque into the Countries and Dominions of the ſaid Princes, which wholie might alter the tra<g ref="char:EOLhyphen"/>ficque which was wont to bee betweene our eſtates, and which is alſo one of the chiefeſt and moſt firme bonds for the en<g ref="char:EOLhyphen"/>tertainment of peace, which our moſt ho<g ref="char:EOLhyphen"/>ly Father the Pope well conſidering, and that the ſame in time to come might effect and draw much worſe conſequence, hath had care through his fatherly affection which hee beareth vs, to continue the ſaid peace, and for the good and quietneſſe of our eſtates, exhorted vs with holy counſel to ceaſe our differences which had happe<g ref="char:EOLhyphen"/>ned by our ſaid publications, and to reſtore the liberty of trade which had bin alwaies ſince the ſaid peace. As <gap reason="illegible" extent="1 span">
+                              <desc>〈…〉</desc>
+                           </gap> brother the King of <gap reason="illegible" extent="1 span">
+                              <desc>〈…〉</desc>
+                           </gap>
+                           <gap reason="illegible" extent="1 chunk">
+                              <desc>…</desc>
+                           </gap>like endeuour toward <gap reason="illegible" extent="1 span">
+                              <desc>〈…〉</desc>
+                           </gap> that with one accord <gap reason="illegible" extent="2 letters">
+                              <desc>••</desc>
+                           </gap>ing the <gap reason="illegible" extent="1 letter">
+                              <desc>•</desc>
+                           </gap> to cauſe our Miniſter<gap reason="illegible" extent="1 chunk">
+                              <desc>…</desc>
+                           </gap> 
+                           <gap reason="illegible" extent="1 span">
+                              <desc>〈…〉</desc>
+                           </gap>, the cauſe <gap reason="illegible" extent="1 span">
+                              <desc>〈…〉</desc>
+                           </gap> the diffe<g ref="char:EOLhyphen"/>rences, the <gap reason="illegible" extent="1 span">
+                              <desc>〈…〉</desc>
+                           </gap> determi<g ref="char:EOLhyphen"/>ned with <gap reason="illegible" extent="1 span">
+                              <desc>〈…〉</desc>
+                           </gap> ſealed ſh<gap reason="illegible" extent="1 chunk">
+                              <desc>…</desc>
+                           </gap> 
+                           <gap reason="illegible" extent="1 span">
+                              <desc>〈…〉</desc>
+                           </gap> agree<g ref="char:EOLhyphen"/>ment, which arch<gap reason="illegible" extent="1 chunk">
+                              <desc>…</desc>
+                           </gap> 
+                           <gap reason="illegible" extent="1 span">
+                              <desc>〈…〉</desc>
+                           </gap> 
+                           <gap reason="illegible" extent="1 chunk">
+                              <desc>…</desc>
+                           </gap>ectiuely
+<pb n="3" facs="tcp:173227:3"/>
+                           <!-- PDF PAGE 3 -->ratified. And deſiring for our part, that it may be inuiolably kept and obſerued, and to that end that it may be manifeſted and knowne to al men: Be it therfore knowne and manifeſt to all, That the Articles fol<g ref="char:EOLhyphen"/>lowing were handled, agreed, and ſigned, by our coſen the Lord Marqueſſe of <hi>Roſny,</hi> great Maſter and Captaine Generall of the Ordenance of <hi>France,</hi> and the Lord of <hi>Sille<g ref="char:EOLhyphen"/>ry,</hi> one of our priuie Councell for vs: and for our ſaid brethren the King of <hi>Spaine</hi> and Arch-duke, <hi>Dom Baltazar de Cuuiga,</hi> Em<g ref="char:EOLhyphen"/>baſſador for the ſaid King of <hi>Spain</hi> and the Senator <hi>Alexander Rouidius,</hi> and afterwards reſpectiuely confirmed &amp; ratified as is be<g ref="char:EOLhyphen"/>fore ſaid. FIRST, It is agreed on both ſides, and at one time: that the Proclama<g ref="char:EOLhyphen"/>tions publiſhed concerning the thirtie in <gap reason="illegible" extent="1 span">
+                              <desc>〈…〉</desc>
+                           </gap> 
+                           <gap reason="illegible" extent="1 chunk">
+                              <desc>…</desc>
+                           </gap>dictio<g ref="char:cmbAbbrStroke">̄</g> of trade, ſhould by the ſaid <gap reason="illegible" extent="1 span">
+                              <desc>〈…〉</desc>
+                           </gap> Archduke be taken away and ſurceaſe <gap reason="illegible" extent="1 chunk">
+                              <desc>…</desc>
+                           </gap>EM, It is agreed that the ſaid <gap reason="illegible" extent="1 span">
+                              <desc>〈…〉</desc>
+                           </gap> Chriſtia<g ref="char:cmbAbbrStroke">̄</g> king, ſhall forbid <gap reason="illegible" extent="1 span">
+                              <desc>〈…〉</desc>
+                           </gap> 
+                           <gap reason="illegible" extent="3 letters">
+                              <desc>•••</desc>
+                           </gap>ſently after the <gap reason="illegible" extent="1 span">
+                              <desc>〈…〉</desc>
+                           </gap> arti<g ref="char:EOLhyphen"/>cles, tha<gap reason="illegible" extent="1 letter">
+                              <desc>•</desc>
+                           </gap> 
+                           <gap reason="illegible" extent="1 span">
+                              <desc>〈…〉</desc>
+                           </gap> 
+                           <gap reason="illegible" extent="1 chunk">
+                              <desc>…</desc>
+                           </gap>aſſalls, or inhabita<g ref="char:cmbAbbrStroke">̄</g>
+                           <gap reason="illegible" extent="2 letters">
+                              <desc>••</desc>
+                           </gap> 
+                           <gap reason="illegible" extent="1 span">
+                              <desc>〈…〉</desc>
+                           </gap> 
+                           <gap reason="illegible" extent="1 chunk">
+                              <desc>…</desc>
+                           </gap>ort, directly
+<pb n="4" facs="tcp:173227:4"/>
+                           <!-- PDF PAGE 4 -->nor indirectly by any manner or meanes whatſoeuer, neither in his own name, nor in the name of any other man, neither ſhall lend his name, nor any ſhip, veſſell or wa<g ref="char:EOLhyphen"/>gon, to carrie or conuay ſhippes, marchan<g ref="char:EOLhyphen"/>dizes, wares, or any other things, from the Prouinces of <hi>Holland</hi> &amp; <hi>Zealand</hi> into <hi>Spayne,</hi> or into any other Kingdoms and Domini<g ref="char:EOLhyphen"/>ons of the King of <hi>Spayne</hi> and Archdukes, neyther ſhall lade in his ſhip or veſſell any marchandizes of <hi>Holland and Zealand</hi> to be tra<g ref="char:cmbAbbrStroke">̄</g>ſported into the ſaid countries, on paine of his Maieſties indignation, and other for<g ref="char:EOLhyphen"/>feytures impoſed by his ordinances vppon the Offendors. And for the auoyding of the frawds which may enſue by reaſon of the reſemblance of marchandizes; It is a<g ref="char:EOLhyphen"/>greed in this preſent article, that the mar<g ref="char:EOLhyphen"/>chandizes, of <hi>France</hi> 
+                           <gap reason="illegible" extent="1 span">
+                              <desc>〈…〉</desc>
+                           </gap> 
+                           <gap reason="illegible" extent="2 letters">
+                              <desc>••</desc>
+                           </gap>
+                           <g ref="char:EOLunhyphen"/>ported and conuay<gap reason="illegible" extent="2 letters">
+                              <desc>••</desc>
+                           </gap> into the Kingdomes and countries of <gap reason="illegible" extent="1 word">
+                              <desc>〈◊〉</desc>
+                           </gap> 
+                           <gap reason="illegible" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>aid Catholique King and Archduke <gap reason="illegible" extent="1 span">
+                              <desc>〈…〉</desc>
+                           </gap> 
+                           <gap reason="illegible" extent="1 chunk">
+                              <desc>…</desc>
+                           </gap>ed and ſealed with <gap reason="illegible" extent="1 span">
+                              <desc>〈…〉</desc>
+                           </gap> place from wh<gap reason="illegible" extent="3+ letters">
+                              <desc>•••…</desc>
+                           </gap> 
+                           <gap reason="illegible" extent="1 span">
+                              <desc>〈…〉</desc>
+                           </gap> being ſo regiſtre<gap reason="illegible" extent="1 letter">
+                              <desc>•</desc>
+                           </gap> 
+                           <gap reason="illegible" extent="1 span">
+                              <desc>〈…〉</desc>
+                           </gap> and held for <hi>Frenche</hi> n<gap reason="illegible" extent="1 chunk">
+                              <desc>…</desc>
+                           </gap> 
+                           <gap reason="illegible" extent="1 span">
+                              <desc>〈…〉</desc>
+                           </gap> 
+                           <gap reason="illegible" extent="2 letters">
+                              <desc>••</desc>
+                           </gap>proued
+<pb n="5" facs="tcp:173227:4"/>
+                           <!-- PDF PAGE 4 -->and admitted, excepting the proofe of the frawde, without any let or hindrance to the courſe of marchandize, or ſhipping notwithſtandanding: And touching ſuch marchandize which ſhall not be regiſtred and marked, the ſame ſhall be confiſcate, and taken for good prize. Likewiſe al <hi>Hol<g ref="char:EOLhyphen"/>landers</hi> and <hi>Zealanders</hi> which ſhal be found in the ſaid ſhips may be taken &amp; arreſted. ITEM, it is agreed that the marchandizes which the <hi>Frenche</hi> marchants ſhall buy in <hi>Spayne,</hi> and other countreyes of the ſaid Ca<g ref="char:EOLhyphen"/>tholicque King, and the ſame tranſport in their own ſhipping, or in other ſhips hy<g ref="char:EOLhyphen"/>red and lent them for their vſe, (excepting notwithſtanding the ſhips of <hi>Holland</hi> and <hi>Zealand</hi> as is before ſaid,) ſhall not pay, the ſaide Impoſitio of thirty in the hundreth, ſo as they carry the ſame into the Countrie of the ſaide moſt Chriſtian King or to the Ports vnder the obeiſance of the ſaid Arch<g ref="char:EOLhyphen"/>dukes, or vnto <gap reason="illegible" extent="1 span">
+                              <desc>〈…〉</desc>
+                           </gap> forbidden by <gap reason="illegible" extent="1 span">
+                              <desc>〈…〉</desc>
+                           </gap> 
+                           <gap reason="illegible" extent="1 chunk">
+                              <desc>…</desc>
+                           </gap>
+                           <g ref="char:EOLhyphen"/>ning this in, <gap reason="illegible" extent="1 span">
+                              <desc>〈…〉</desc>
+                           </gap> of theſe <gap reason="illegible" extent="1 span">
+                              <desc>〈…〉</desc>
+                           </gap> frauds <gap reason="illegible" extent="1 span">
+                              <desc>〈…〉</desc>
+                           </gap> &amp; auoyded, and that the ſats<gap reason="illegible" extent="1 chunk">
+                              <desc>…</desc>
+                           </gap> 
+                           <gap reason="illegible" extent="1 span">
+                              <desc>〈…〉</desc>
+                           </gap> 
+                           <gap reason="illegible" extent="1 chunk">
+                              <desc>…</desc>
+                           </gap>zes be not carryed
+<pb n="6" facs="tcp:173227:5"/>
+                           <!-- PDF PAGE 5 -->to any other place, &amp; eſpecially into <hi>Holland</hi> and <hi>Zealand.</hi> And it is reſolued, that at ſuch time as the ſaid marchandizes are laden in their ſhips in <hi>Spayne,</hi> or in any other King<g ref="char:EOLhyphen"/>doms and dominions vnder the obedien<gap reason="illegible" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>e of the ſaide Catholicque king and Arch<g ref="char:EOLhyphen"/>duke<gap reason="illegible" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>, they ſhall binde themſelues before the magiſtrate of the place wher they ſhall take in their lading, to paye the ſaid impo<g ref="char:EOLhyphen"/>ſition of thirty in the hundreth if ſo be they ſhall carry the ſame to any other place, and within a yeere to returne a certificate, from the Iudge or Magiſtrate of thoſe places where the ſaid marchandizes ſhall be diſ<g ref="char:EOLhyphen"/>charged, whether the ſame be done in the kingdome of <hi>France,</hi> or in the Portes &amp; ha<g ref="char:EOLhyphen"/>ue<g ref="char:cmbAbbrStroke">̄</g>s of the ſaid Archdukes, or in any other place, not prohibited by the ſaide Edict, which certificate being returned, the obli<g ref="char:EOLhyphen"/>gations concerning thoſe matters ſhall be <gap reason="illegible" extent="1 word">
+                              <desc>〈◊〉</desc>
+                           </gap>, and remain voyde &amp; of no effect. And it is <gap reason="illegible" extent="1 span">
+                              <desc>〈…〉</desc>
+                           </gap> 
+                           <gap reason="illegible" extent="1 chunk">
+                              <desc>…</desc>
+                           </gap>ed, that after pub<g ref="char:EOLunhyphen"/>lication of this <gap reason="illegible" extent="1 span">
+                              <desc>〈…〉</desc>
+                           </gap> moſt Chriſtian king ſhall comma<gap reason="illegible" extent="2 letters">
+                              <desc>••</desc>
+                           </gap> vnder <gap reason="illegible" extent="1 span">
+                              <desc>〈…〉</desc>
+                           </gap> man ſhall bring any march and <gap reason="illegible" extent="1 span">
+                              <desc>〈…〉</desc>
+                           </gap> 
+                           <hi>Spayne,</hi> or out of any other of the C<gap reason="illegible" extent="3 letters">
+                              <desc>•••</desc>
+                           </gap>olicque kings
+<pb n="7" facs="tcp:173227:5"/>
+                           <!-- PDF PAGE 5 -->dominions, but into <hi>France,</hi> &amp; to the ports and hauens of <hi>Flanders,</hi> &amp; places before ſpe<g ref="char:EOLhyphen"/>cified, or els where, no<gap reason="illegible" extent="1 letter">
+                              <desc>•</desc>
+                           </gap> prohibited by the ſaid Edict, on paine to forfeyte the ſaide marchandizes, to the vſe of the ſaide moſt Chriſtian king, wherof the moitie (or the valew thereof) ſhall bee to the Informer, (thirty in the hu<g ref="char:cmbAbbrStroke">̄</g>dreth being firſt deducted) which ſhall be payed to the Commiſſio<g ref="char:EOLhyphen"/>ners appointed by the ſaide Catholicque king, vppon the credit of the prooſes law<g ref="char:EOLhyphen"/>fully taken and made in <hi>Spayne,</hi> &amp; ſent into <hi>France,</hi> in Attentique forme (excepting the exceptions and defences againſt the ſaide proofes.) And it is alſo agreed, that ſome magiſtrate of the places and townes of the ſaid kingdomes, which ſhall giue certifi<g ref="char:EOLhyphen"/>cate of the diſcharging of the ſhips, or of regiſtring the marchandizes, ſhall vſe no fraude therin, on paine of his Maieſties in<g ref="char:EOLhyphen"/>dignation, to be diſcharged fro<g ref="char:cmbAbbrStroke">̄</g> his <gap reason="illegible" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>ffice, and of more gree<gap reason="illegible" extent="2+ letters">
+                              <desc>••…</desc>
+                           </gap> 
+                           <gap reason="illegible" extent="1 span">
+                              <desc>〈…〉</desc>
+                           </gap> punishment as the cauſe requyred <gap reason="illegible" extent="1 span">
+                              <desc>〈…〉</desc>
+                           </gap>  as much as the intent of the <gap reason="illegible" extent="1 span">
+                              <desc>〈…〉</desc>
+                           </gap> is to procur<gap reason="illegible" extent="1 letter">
+                              <desc>•</desc>
+                           </gap> the greater com<gap reason="illegible" extent="1 chunk">
+                              <desc>…</desc>
+                           </gap> 
+                           <gap reason="illegible" extent="1 span">
+                              <desc>〈…〉</desc>
+                           </gap> 
+                           <gap reason="illegible" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>nd profit<g ref="char:punc">▪</g> by the trade between their ſubiects, they ſhall giue or<g ref="char:EOLhyphen"/>der
+<pb n="8" facs="tcp:173227:6"/>
+                           <!-- PDF PAGE 6 -->as much as in them lyeth, for free paſ<g ref="char:EOLhyphen"/>ſage to goe and come to their Portes, King<g ref="char:EOLhyphen"/>domes and Dominions, to the end that the ſaid ſubiects may more freely paſſe with their marchandizes. And as concerning the reuocation of the tolls impoſed at <hi>Calais,</hi> ſince the meeting at <hi>Veruins,</hi> co<g ref="char:cmbAbbrStroke">̄</g>cerning ſuch marchandizes which ſhould be tranſpor<g ref="char:EOLhyphen"/>ted out of <hi>Spayne</hi> into <hi>Flanders,</hi> and out of <hi>Flanders</hi> into <hi>Spayne.</hi> Which article hauing bin already agreed vpon, at the inſtant ſute of the Cardinall of <hi>Buffalo,</hi> in the name of his Holynes, the ſame ſhall be put in exe<g ref="char:EOLhyphen"/>cution, according to the forme and tenure therof. All the articles aboue mentioned ſhall bee reciprocallie publiſhed, with all therin contained, and the ratificatio<g ref="char:cmbAbbrStroke">̄</g> of the ſaide Princes ſhall be ſolicited, that publi<g ref="char:EOLhyphen"/>cation thereof may be made in one day, on both ſides, forty daies after the date hereof.</p>
+                        <closer>
+                           <dateline>Dated <date>the <gap reason="illegible" extent="3+ letters">
+                                    <desc>•••…</desc>
+                                 </gap> day of October. 1604.</date>
+                           </dateline>
+                           <signed>Signed 
+<list>
+                                 <item>Maximillan de<gap reason="illegible" extent="1 chunk">
+                                       <desc>…</desc>
+                                    </gap>ne,</item>
+                                 <item>N. Bruda<gap reason="illegible" extent="1 letter">
+                                       <desc>•</desc>
+                                    </gap>t at S<gap reason="illegible" extent="2+ letters">
+                                       <desc>••…</desc>
+                                    </gap>ery,</item>
+                                 <item>Dom B<gap reason="illegible" extent="5+ letters">
+                                       <desc>•••••…</desc>
+                                    </gap>zar <gap reason="illegible" extent="1 span">
+                                       <desc>〈…〉</desc>
+                                    </gap>
+                                 </item>
+                                 <item>Alexander Ro<g ref="char:EOLhyphen"/>uidi;<gap reason="illegible" extent="3+ letters">
+                                       <desc>•••…</desc>
+                                    </gap>
+                                 </item>
+                              </list>
+                           </signed>
+                        </closer>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <p>And a little <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> was written,</p>
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="postscript">
+                        <p>Seeing <gap reason="illegible" extent="3 letters">
+                              <desc>•••</desc>
+                           </gap>ſe article<g ref="char:punc">▪</g> befo<gap reason="illegible" extent="2 letters">
+                              <desc>••</desc>
+                           </gap> 
+                           <gap reason="illegible" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>entioned. His Excellencie is of the ſame minde, touching
+<pb n="9" facs="tcp:173227:6"/>
+                           <!-- PDF PAGE 6 -->the allowance or approbatio<g ref="char:cmbAbbrStroke">̄</g> aboue men<g ref="char:EOLhyphen"/>tioned, the ſaid yeare, and ſixteenth day of the ſame moneth at <hi>Arras..</hi>
+                        </p>
+                        <closer>
+                           <signed>Signed <hi>Iohn de on Gondeſt,</hi>
+                           </signed>
+                        </closer>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <p>with this addition.</p>
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="addendum">
+                        <p>Wee com<g ref="char:EOLhyphen"/>maund our friends and faithfull Councel<g ref="char:EOLhyphen"/>lers, thoſe which keepe our Courts of Par<g ref="char:EOLhyphen"/>liament of Ayde, Bayliffs, Seneſhalls, Pro<g ref="char:EOLhyphen"/>uoſts, Generall Treaſurers of <hi>France,</hi> Offi<g ref="char:EOLhyphen"/>cers of our Admiraltie, and of forreine bu<g ref="char:EOLhyphen"/>ſines, or their Lieutenants, and others our Officers, Iuſtiſes &amp; Subiects, to who<g ref="char:cmbAbbrStroke">̄</g> it ſhal appertaine, that euery one of them in his place, ſhall cauſe theſe preſents to bee re<g ref="char:EOLhyphen"/>giſtred &amp; publiſhed, and to keep, follow, and obſerue the Articles therein contained inuiolablie, according to their forme and tenure, ceaſſing, and cauſing to ceaſſe, all troubles &amp; impeachments herevnto con<g ref="char:EOLhyphen"/>trary or repugnant, for ſuch is our pleaſure: And to the ende that this may remaine for euer firme and ſtable, we haue cauſed our Seale to be put herevnto, reſeruing in other matters our right, and graunt at all times.</p>
+                        <closer>
+                           <dateline>Giuen at <hi>Fontainbeau</hi> 
+                              <date>in the moneth of No<g ref="char:EOLhyphen"/>uember, and in the yeere of grace, 1604. And the 16. yeere of our Raigne.</date>
+                           </dateline> 
+                           <signed>Signed <hi>HENRY.</hi>
+                           </signed>
+                        </closer>
+                        <argument>
+                           <pb n="6" facs="tcp:173227:7"/>
+                           <!-- PDF PAGE 7 -->
+                           <p>On the foulde was writte<g ref="char:cmbAbbrStroke">̄</g> the Kings Regi<g ref="char:EOLhyphen"/>ſter his Manuell ſigne, <gap reason="illegible" extent="2 letters">
+                                 <desc>••</desc>
+                              </gap>d ſealed on a knot of red and greene ſilke: the great Seale in greene waxe; and on the folde was writ<g ref="char:EOLhyphen"/>ten, <q>Read, Publiſhed and Regiſtred, and heard, and the generall Procurator of the King, deſiring that the contents thereof might be kept and obſerued, according to the tenure and forme at <hi>Roane</hi> in the Par<g ref="char:EOLhyphen"/>liament, <date>the 22. day of Nouember, 1604.</date>
+                              </q>
+                           </p>
+                           <p>Signed <hi>CVSSON,</hi> the Notaries knot or manuell ſigne.</p>
+                        </argument>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:173227:7"/>
+            <!-- PDF PAGE 7 -->
+         </div>
+      </body>
+   </text>
+</TEI>
